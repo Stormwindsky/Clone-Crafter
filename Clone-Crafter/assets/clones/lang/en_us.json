@@ -1,0 +1,12 @@
+{
+  "entity.clones.true_clone_pig": "Clone Pig",
+  "item.clones.testok_spawn_egg": "Testok Spawn Egg",
+  "item.clones.clone_zombie_spawn_egg": "Clone Zombie Spawn Egg",
+  "item.clones.clone_creeper_spawn_egg": "Clone Creeper Spawn Egg",
+  "item.clones.clone_pig_spawn_egg": "Clone Pig Spawn Egg",
+  "item.clones.true_clone_pig_spawn_egg": "Clone Pig Spawn Egg",
+  "entity.clones.clone_pig": "Clone Pig",
+  "entity.clones.testok": "Testok",
+  "entity.clones.clone_zombie": "Clone Zombie",
+  "entity.clones.clone_creeper": "Clone Creeper"
+}
